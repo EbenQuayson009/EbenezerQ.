@@ -12,7 +12,10 @@
 
 [osTicket-Ticket-Lifecycle-SLAs
 ](https://github.com/EbenQuayson009/osTicket-Ticket-Lifecycle-SLAs)
+<li><b>Microsoft Azure (Active Directory / DNS Configuration)</b>
 
+[configure-ad
+](https://github.com/EbenQuayson009/configure-ad)
 <h2>Certifications:</h2>
 <ul>
   <li><b>Google IT Professional Certification</b> Completed a 6-month course)</li>
