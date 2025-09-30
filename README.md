@@ -2,8 +2,10 @@
 <h1>Hi, I'm ebenezer, an <a href="https://linkedin.com/in/eebenezer-quayson/">IT Professional.</a></h1> 
 
 <h2> Key Projects:</h2>
+osTicket (Building a Help Desk Ticketing System)
 
-
+[osticket-prereqs
+](https://github.com/EbenQuayson009/osticket-prereqs)
 <h2>Certifications:</h2>
 <ul>
   <li><b>Google IT Professional Certification</b> Completed a 6-month course)</li>
