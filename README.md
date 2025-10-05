@@ -16,6 +16,9 @@
 
 [configure-ad
 ](https://github.com/EbenQuayson009/configure-ad)
+
+[Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols
+](https://github.com/EbenQuayson009/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 <h2>Certifications:</h2>
 <ul>
   <li><b>Google IT Professional Certification</b>
